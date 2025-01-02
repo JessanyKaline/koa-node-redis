@@ -4,6 +4,8 @@ https://www.youtube.com/playlist?list=PLOkU6KhSYdHTP-itX2VXOsotaWFvsq26y
 
 # README ORIGINAL 
 
+https://github.com/javieraviles/node-typescript-koa-rest
+
 # Node - Koa - Typescript Project
 
 

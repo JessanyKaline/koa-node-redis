@@ -1,6 +1,17 @@
 The modifications and explications of this API can be seen on Youtube with audio in Portuguese in the link below:
 
-https://www.youtube.com/playlist?list=PLOkU6KhSYdHTP-itX2VXOsotaWFvsq26y
+General: https://www.youtube.com/playlist?list=PLOkU6KhSYdHTP-itX2VXOsotaWFvsq26y
+
+Redis: https://www.youtube.com/watch?v=mbArmcnEyUI
+
+## Redis Caching
+
+This project uses Redis for caching to improve performance. The Redis configuration can be set in the `.env` file:
+
+.env
+REDIS_HOST=127.0.0.1
+REDIS_PORT=6379
+REDIS_PASSWORD=your_redis_password
 
 # README ORIGINAL 
 
